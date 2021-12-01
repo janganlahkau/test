@@ -1,5 +1,15 @@
-# wabot-aq
-Simple WhatsApp Bot
+# # BSTONE-WABOT
+<p align="center">
+<a href="#"><img title="Bot WhatsApp by BLACK•STONE" src="https://telegra.ph/file/383c40053bf43b7889274.jpg?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p> 
+<a href="https://github.com/black23stone"><img title="Author" src="https://img.shields.io/badge/Author-BLACK•STONE-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://github.com/black23stone/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
+</p>
+<p align='center'>
+   <a href="https://wa.me/62895338264382"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/aswadd___"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 
 ### FOR TERMUX USER
 ```bash
